@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 ---
 
-<p align="center">
+<p align="right">
   <img src="/assets/images/Profile.jpg" alt="Arka Ian Goswami" width="180" style="border-radius:50%">
 </p>
 

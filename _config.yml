@@ -1,9 +1,9 @@
-nav:
-  - title: "Home"
-    url: /
-  - title: "Research"
-    url: /research/
-  - title: "Lecture Notes"
-    url: /notes/
-  - title: "Other"
-    url: /other/
+title: "Arka Ian Goswami"
+description: "Research, notes, and other writing"
+theme: minima
+# Show these pages as top navigation (minima uses header_pages)
+header_pages:
+  - research.md
+  - notes.md
+  - other.md
+

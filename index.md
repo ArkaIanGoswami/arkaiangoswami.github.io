@@ -3,6 +3,7 @@ layout: page
 title: "Home"
 ---
 
+![Arka Ian Goswami](/assets/images/Profile.jpg)
 I am a graduate student in the Department of Electrical and Computer Engineering and the Centre for Intelligent Machines at McGill University.  
 I am also affiliated to the Montreal Institute for Learning Algorithms (MILA) and GERAD.  
 

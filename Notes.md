@@ -1,1 +1,7 @@
+---
+layout: page
+title: "Lecture Notes"
+permalink: /notes/
+---
+Links to my notes will live here.
 

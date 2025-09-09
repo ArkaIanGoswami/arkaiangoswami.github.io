@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 <p align="right">
-  <img src="/assets/images/Profile.jpg" alt="Arka Ian Goswami" width="180" style="border-radius:50%">
+  <img src="/assets/images/Profile.jpg" alt="Arka Ian Goswami" width="200" style="border-radius:50%">
 </p>
 
 I am a graduate student in the Department of Electrical and Computer Engineering and the Centre for Intelligent Machines at McGill University.  

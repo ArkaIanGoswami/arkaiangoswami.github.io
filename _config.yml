@@ -4,6 +4,7 @@ theme: minima
 # Show these pages as top navigation (minima uses header_pages)
 header_pages:
   - research.md
-  - notes.md
-  - other.md
+  - Contact.md
+  - Notes.md
+  - Other.md
 

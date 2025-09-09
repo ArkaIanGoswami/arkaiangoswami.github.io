@@ -1,0 +1,9 @@
+nav:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Lecture Notes"
+    url: /notes/
+  - title: "Other"
+    url: /other/

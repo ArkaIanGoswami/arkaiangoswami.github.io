@@ -45,7 +45,7 @@ title: "Home"
 <div class="profile-wrap">
   <!-- Left: photo + contact -->
   <div class="profile-left">
-    <img src="/assets/images/Profile.jpg" alt="Arka Ian Goswami">
+    <img src="/assets/images/IMG-20240827-WA0005.jpg" alt="Arka Ian Goswami">
     <div class="contact">
       <p><strong>Contact</strong></p>
       <p>Email: <a href="mailto:arka.goswami@mail.mcgill.ca">arka.goswami@mail.mcgill.ca</a></p>

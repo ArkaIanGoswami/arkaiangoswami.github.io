@@ -62,7 +62,7 @@ title: "Home"
   <div class="profile-right">
     <p>I am a graduate student in the Department of Electrical and Computer Engineering and the Centre for Intelligent Machines at McGill University.</p>
     <p>I am also affiliated to the Montreal Institute for Learning Algorithms (MILA) and GERAD.</p>
-    <p>My research interests are in the theories and applications of Stochastic Systems, Optimization, and Reinforcement Learning. 
+    <p>My research interests are in the theories and applications of <li><strong>Stochastic Systems, Optimization, and Reinforcement Learning</strong></li>
 The following topics are also of interest because of their application to the aforementioned, or the applicability of the aforementioned to them:</p>
 
 <ol>

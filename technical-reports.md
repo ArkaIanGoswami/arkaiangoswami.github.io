@@ -15,7 +15,7 @@ permalink: /technical-reports/
 
 ### [Safe RL - Common Algorithms under sparse rewards]
 **Year:** 2026 
-[PDF]({{ '/assets/images/Safe_RL_Ablation_for_Safety_Critical_Systems.pdf' | relative_url }})
+[PDF]({{ '/assets/images/Safe_RL_Ablation_For_Safety_Critical_Systems.pdf' | relative_url }})
 
 ---
 

@@ -1,10 +1,11 @@
 title: "Arka Ian Goswami"
 description: "Research, notes, and other writing"
+
 theme: minima
-# Show these pages as top navigation (minima uses header_pages)
+
 header_pages:
   - research.md
+  - technical-reports.md
   - Contact.md
   - Notes.md
   - Other.md
-

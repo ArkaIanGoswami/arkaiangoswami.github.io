@@ -4,12 +4,6 @@ title: Technical Reports
 permalink: /technical-reports/
 ---
 
-The following are technical reports developed as part of graduate and undergraduate coursework. 
-They cover topics in probability, stochastic systems, optimization, machine learning, control, 
-and related areas of applied mathematics.
-
-## Probability, Measure Theory, and Stochastic Processes
-
 ### [A Review on Distributional Reinforcement Learning]
 **Year:** 2026  
 

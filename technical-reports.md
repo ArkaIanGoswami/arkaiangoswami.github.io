@@ -10,31 +10,23 @@ and related areas of applied mathematics.
 
 ## Probability, Measure Theory, and Stochastic Processes
 
-### [Title of Report]
-**Course:** Course Name, McGill University  
+### [A Review on Distributional Reinforcement Learning]
 **Year:** 2026  
-**Topics:** Measure theory, probability, stochastic processes
 
-[PDF](/assets/reports/report-name.pdf)
+[PDF](/assets/reports/DistRLReviewe.pdf)
 
 ---
 
-## Reinforcement Learning and Control
 
-### [Title of Report]
-**Course:** Reinforcement Learning  
-**Year:** 2026  
-**Topics:** Markov decision processes, policy optimization, reinforcement learning
 
-[PDF](/assets/reports/report-name.pdf)
+### [Safe RL - Common Algorithms under sparse rewards]
+**Year:** 2026 
+[PDF](/assets/reports/Safe_RL_Ablation_for_Safety_Critical_Systems.pdf)
 
 ---
 
-## Optimization
 
-### [Title of Report]
-**Course:** Optimization and Optimal Control  
+
+### [Image Deblurring and Denoising]
 **Year:** 2026  
-**Topics:** Convex optimization, optimal control, numerical methods
-
-[PDF](/assets/reports/report-name.pdf)
+[PDF](/assets/reports/.pdf)

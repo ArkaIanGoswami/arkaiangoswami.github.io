@@ -7,7 +7,7 @@ permalink: /technical-reports/
 ### [A Review on Distributional Reinforcement Learning]
 **Year:** 2026  
 
-[PDF](/assets/reports/DistRLReviewe.pdf)
+[PDF](/assets/images/DistRLReviewe.pdf)
 
 ---
 
@@ -15,7 +15,7 @@ permalink: /technical-reports/
 
 ### [Safe RL - Common Algorithms under sparse rewards]
 **Year:** 2026 
-[PDF](/assets/reports/Safe_RL_Ablation_for_Safety_Critical_Systems.pdf)
+[PDF](/assets/images/Safe_RL_Ablation_for_Safety_Critical_Systems.pdf)
 
 ---
 
